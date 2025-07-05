@@ -1,0 +1,29 @@
+$montserrat: "Montserrat", sans-serif;
+$roboto-mono: "Roboto Mono", "monospace";
+
+// Colores Base
+$white: #ffffff;
+$black: #333333; // Un negro suave para texto principal
+$gray-light: #f8f9fa; // Un gris muy claro, casi blanco
+
+// Tonos Azules Claros (para backgrounds y acentos)
+$blue-base: #e0f2f7;   // Azul muy claro, casi etéreo
+$blue-light: #d1ecf1;  // Un tono ligeramente más saturado
+$blue-lighter: #edf2fa; // Un azul blanco muy sutil, ideal para fondos
+$blue-accent: #87ceeb; // Azul cielo, para elementos interactivos o destacados
+
+// Fondo de la Página
+$page-bg-color: $blue-lighter; // El color de fondo principal de tu página
+$section-bg-color: $white;     // Color de fondo para secciones o contenedores principales
+
+// Colores de Texto
+$text-color-primary: $black;        // Color principal del texto
+$text-color-secondary: #555555;     // Color secundario, para descripciones o texto menos prominente
+$text-color-light: #777777;         // Texto aún más claro, para notas o metadatos
+
+// Borderes
+$border-color-light: #dee2e6;       // Un gris claro para bordes sutiles
+$border-color-blue: $blue-base;     // Borde con un toque azulado
+
+// Sombras (si las usas para dar profundidad)
+$box-shadow-light: 0 4px 6px rgba($blue-base, 0.1); // Una sombra suave con tinte azul

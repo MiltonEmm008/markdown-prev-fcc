@@ -1,0 +1,28 @@
+@use "variables" as *;
+
+body {
+  margin: 0;
+}
+
+* {
+  font-family: $montserrat;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: $blue-light;
+  .container {
+    height: 100vh;
+  }
+}
+
+img {
+  max-width: 100%;
+  object-fit: contain;
+}
+
+pre {
+  code {
+    font-family: $roboto-mono;
+  }
+}

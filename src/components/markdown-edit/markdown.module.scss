@@ -1,0 +1,15 @@
+.editor-container {
+  height: 100%;
+  overflow: hidden;
+}
+
+.editor {
+  height: 100%;
+  width: 100%;
+  resize: none;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 8px;
+  font-family: inherit;
+  overflow: auto;
+}
