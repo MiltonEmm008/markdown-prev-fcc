@@ -1,9 +1,9 @@
 import React from "react";
-import "./header.module.scss";
+import styles from "./header.module.scss";
 
 function Header() {
   return (
-    <header>
+    <header className={styles.header}>
       <h1>Previsualizador de Markdown</h1>
       <p>
         Por{" "}
