@@ -4,7 +4,7 @@ import "./header.module.scss";
 function Header() {
   return (
     <header>
-      <h1>Previsualizador de texto Markdown</h1>
+      <h1>Previsualizador de Markdown</h1>
       <p>
         Por{" "}
         <a
