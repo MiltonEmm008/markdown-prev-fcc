@@ -7,7 +7,10 @@ function Header() {
       <h1>Previsualizador de texto Markdown</h1>
       <p>
         Por{" "}
-        <a target="_blank" href="https://github.com/MiltonEmm008/markdown-prev-fcc">
+        <a
+          target="_blank"
+          href="https://github.com/MiltonEmm008/markdown-prev-fcc"
+        >
           Milton
         </a>
       </p>
